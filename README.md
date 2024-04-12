@@ -1,1 +1,2 @@
 # Movement-piano
+This project resulted in the creation of an interactive grid-based visualizer and synthesizer using p5.js. The visualizer detects movement within an image and activates corresponding musical notes represented by grid cells. As the notes fade visually, sound synthesis occurs concurrently, creating an immersive audiovisual experience where movement in the image triggers both visual and auditory feedback.
